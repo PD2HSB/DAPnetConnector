@@ -1,4 +1,7 @@
-#How to use
+# DAPnetConnector
+DAPnet decentralized paging network for amateur radio operators. This is an connector to send messages by the Windows commandline.
+
+## How to use
 Add your dapnet/hampager credentials in the config file.
 usage: DAPnetConnector [-h] [-c CALL] [-g GROUP] [-m MESSAGE]
 
@@ -16,4 +19,4 @@ options:
 
 If you are logged in at the hampager website, you can find the transmitter groups in [this link](https://hampager.de/#/transmitters/groups)
 
-###Please, always use the smallest transmitter group for your automated paging messages like PA-NB for only one province in the Netherlands.
+### Please, always use the smallest transmitter group for your automated paging messages like PA-NB for only one province in the Netherlands.
